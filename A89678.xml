@@ -1,0 +1,469 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lavvyers bane. Or The lawes reformation, and new modell: vvherein the errours and corruptions both of the lawyers and of the law it selfe are manifested and declared. And also, some short and profitable considerations laid down for the redresse of them.</title>
+            <author>Nicholson, Benjamin.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89678</idno>
+            <idno type="STC">Wing N1105</idno>
+            <idno type="STC">Thomason E401_36</idno>
+            <idno type="STC">ESTC R201804</idno>
+            <idno type="EEBO-CITATION">99862298</idno>
+            <idno type="PROQUEST">99862298</idno>
+            <idno type="VID">114452</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89678)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114452)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E401[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lavvyers bane. Or The lawes reformation, and new modell: vvherein the errours and corruptions both of the lawyers and of the law it selfe are manifested and declared. And also, some short and profitable considerations laid down for the redresse of them.</title>
+                  <author>Nicholson, Benjamin.</author>
+               </titleStmt>
+               <extent>[2], 12 [i.e. 13], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Whittington, at the blew Anchor in Cornehill, neer the Royall Exchange.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Benjamin Nicholson, whose last name appears on t.p. verso and at end of text.</note>
+                  <note>Page numbers 12-13 are misnumbered 13-12 respectively.</note>
+                  <note>Annotation on Thomason copy: "Aug: 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  England --  Early works to 1800.</term>
+               <term>Lawyers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114452:1" rendition="simple:additions"/>
+            <p>THE LAWYERS BANE OR, THE Lawes Reformation, AND <hi>NEW MODELL:</hi> Wherein the errours and corruptions both of the Lawyers and of the Law it ſelfe are manifeſted and declared.</p>
+            <p>
+               <hi>AND ALSO,</hi> Some ſhort and profitable Conſiderations laid downe for the redreſſe of them.</p>
+            <q>
+               <bibl>Luke 11.46.</bibl>
+               <p>And he ſaid, Woe unto you alſo ye Lawyers; for ye lade men with burdens grievous to be borne, and ye your ſelves touch not the burdens with one of your fingers.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>George Whittington,</hi> at the blew Anchor in Corne<g ref="char:EOLhyphen"/>hill, neer the Royall Exchange. 1647.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:114452:2"/>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THat which here is made publike, was intended for the publike good of all men, if it prove accordingly, the Author hath his deſire, if otherwiſe, yet accept of the well-wiſhes of him, who cordially de<g ref="char:EOLhyphen"/>ſires to be thine and his Countreys faith<g ref="char:EOLhyphen"/>full and profitable friend and ſervant.</p>
+            <closer>
+               <signed>Nicholſone.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:114452:2"/>
+            <head>THE Lawyers Bane: OR, THE Lawes Reformation, AND <hi>NEW MODELL.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as it concernes all men in generall (the loweſt and meaneſt not excepted,) to know and underſtand thoſe Lawes and Or<g ref="char:EOLhyphen"/>dinances by which their Rights, Priviledges, Intereſts, and eſtates are ſecured, their words and actions regulated and directed, and for the breach &amp; tranſgreſſion of which ſaid Lawes and Ordinances they ſhall be puniſhed, even in the higheſt degree of life and member: and ſeeing it is altogether unjuſt and unreaſonable to puniſh any man, for omitting or doing contrary to that which he neither knowes, nor can know, nor underſtand, therefore it is no leſſe juſt and equitable, then conſonant and agreeable to ſolid and ſound reaſon, that the Lawes Statutes and Conſtitutions, by which
+<pb n="2" facs="tcp:114452:3"/>
+any people or nation under heaven, are to be governed, and to which they are to yeeld obedience, be (as much as poſſible may be,) ſhort, few and compendious, and withall ſo eaſy and plaine to be underſtood, that if any men ſhould plead igno<g ref="char:EOLhyphen"/>rance of them, it could be no other then wilfull &amp; affected, and ſo all men being left without excuſe, thoſe juſtly might then be adjudged worthy of ſevere and exemplarie puniſhment, that ſhould digreſſe, ſwerve from their duties, whereof they had or might have had perfect cognuſance and knowledge: now for as much as the preſent Lawes of this nation, are in regard of their multiplicitie, and number, confuſed and tedious, in them<g ref="char:EOLhyphen"/>ſelves faultie, and in the execution of them extreamly cor<g ref="char:EOLhyphen"/>rupted, and the knowledge of them with much labour, paines and ſtudie ſcarcely to be attained unto; and alſo in regard of the ſtrange and barbarous language wherein they are for the moſt part written, hard (and to the common and vulgar ſort of People impoſſible) to be underſtood, who are both moſt in number and have moſt need to know them, ſo that it were almoſt as good for them to have no Law at all, as one ſo blind and difficult, that cannot be underſtood without great wit and long arguing, to which neither their groſſe judgments can attaine, nor their leaſure and opportunitie, (who are other<g ref="char:EOLhyphen"/>wiſe neceſſarily to be imployed in their ſeverall vocations and callings for the maintenance of themſelves and families,) can ſuffice, ſo that they are to them, and almoſt unto all other men whatſoever, (Lawyers only excepted) no better then ſnares and traps, wherein they are uſually caught and taken, to their great trouble and vexation, and oftentimes to their utter ruine and undoing, and therefore for the breaking of this net, and the preventing of the like inconveniences for the future, theſe few obſervations are here offered to be conſidered.</p>
+            <p n="1">1. That the Lawes which are made for the preſervation, uſe and regulation of Engliſh men, and of them only, may be writ<g ref="char:EOLhyphen"/>ten in the Engliſh tongue, and not in Latin, French, or any other language whatſoever, and in a ſtile ſo eaſie, plaine and familiar, that all may know them, and be enabled to underſtand them, that ſo they may be able to avoid and eſcape thoſe rocks,
+<pb n="3" facs="tcp:114452:3"/>
+againſt which ſo many have formerly been ſplit and broken, and to preſerve themſelves from falling into thoſe gulphs wherein multitudes have ſo often been ſwallowed up and periſhed, and then if any ſhall ſuffer ſhipwrack, it will be no other, then a juſt reward of their owne wilfull ignorance.</p>
+            <p n="2">2. That for the making of the Lawes eaſie and plaine, as a<g ref="char:EOLhyphen"/>foreſaid, a competent number of impartiall, indifferent and unbiaſſed men, learned, wiſe, diſcreet, and every way fitly qua<g ref="char:EOLhyphen"/>lified for the performance of the work they are to mannage and effect, may be choſen by the conſent of the King and Par<g ref="char:EOLhyphen"/>liament, being the repreſentative body of the whole King<g ref="char:EOLhyphen"/>dome, to conſult and take into ſerious conſideration the whole body of the preſent Lawes, as they now ſtand confuſed and in parts, and out of the reſult, pith and marrow thereof (the temper and genius of the times and people being thorowly ſtudied, and the perſonall rights, priviledges and immunities of all perſons, as well the Kings as others conſidered and pre<g ref="char:EOLhyphen"/>ſerved,) to extract, invent, and find out, new, good, equall, juſt and neceſſary Lawes, plaine, eaſy and free from all dilem<g ref="char:EOLhyphen"/>maes and ambiguities, according as they in their wiſedome ſhall think fit and convenient, all the reſt of the Lawes, toge<g ref="char:EOLhyphen"/>ther with all old names and diſtinctions as of Common, Civill and Statute Lawes, being repealed and taken away for ever, and if in caſe hereafter any or more of theſe Lawes thus made as aforeſaid, be found in ſome part or parts of them ambigu<g ref="char:EOLhyphen"/>ous, improper or inſufficient (experience being the beſt miſtris) either in reſpect of themſelves or the times, for as the Poet ſaith, <hi>tempora mutantur, et nos mutamur in illis,</hi> that then the dificience, ambiguitie or defect of the ſaid Law or Lawes, or any of them, may not be provided for or amended, by being explained, altered ſupplied, or repealed in that, or thoſe parts only ambiguous, improper, or inſufficient as aforeſaid, the re<g ref="char:EOLhyphen"/>mainder of the ſaid Lawes being ſtill continued in force and vertue, a remedie which in time would prove as ill, if not worſe then the diſeaſe it ſelf, and in a great part the ſource and fountain from whence hath flowed the prolixity and confuſion of our preſent, (eſpecially our Statute Lawes, but that the
+<pb n="4" facs="tcp:114452:4"/>
+ſaid Law or Lawes defective as aforeſaid, may be totally abro<g ref="char:EOLhyphen"/>gated and taken away, and for ſupply thereof, a new or new ones, fit and proper for the malady to which it or they are to be applied, in place therof may be made and enacted, that by this meanes the Lawes may be kept and preſerved in their primarie brevitie, plainneſſe and integritie.</p>
+            <p>And in order conducing to the ends aforeſaid, <hi>viz.</hi> the Lawes brevitie and plainneſſe, upon which depends the peace and happineſſe of the people, theſe things following are to be conſidered: firſt, all diverſities of tenures, as of Free-holds and Copie-holds; ſecondly, all diverſities of Fees, as of Fee-Simples, Fee-tailes and the like, with the Sub-Diviſions of Soccage Capite, Knight ſervice, &amp;c. as alſo the Tenures by Fines, certaine and uncertain in Copie-holds, together with all others of the like nature, are for ever to be nullified and aboliſh<g ref="char:EOLhyphen"/>ed, one Tenurie and Fee which ſhall bee thought moſt uſefull and convenient for all the Lands in the whole Kingdome, on<g ref="char:EOLhyphen"/>ly excepted, that ſo they may all be one and the ſame, both in Fee and Tenure, which how much it would conduce to the be<g ref="char:EOLhyphen"/>nefit and eaſe of the whole Kingdome, who ſees not? and only to make it appeare juſt and reaſonable, two great Obje<g ref="char:EOLhyphen"/>ctions are to be anſwered.</p>
+            <p>Object. 1. It may be objected that the King, the Nobilitie, and Gentry would be much prejudiced both in their honours and profits, by the taking away of the rents and ſervices due to their Mannors, together with divers other caſuall pro<g ref="char:EOLhyphen"/>fits thereunto appertaining.</p>
+            <p>Object. 2. By the taking away of intailes, it may ſeem hard and unreaſonable, that all men ſhould be debarred and ſecluded from conveying and diſpoſing of their owne Lands upon their owne termes, and according as they ſhould think moſt uſefull and convenient for themſelves and their poſteritie.</p>
+            <p>I anſwer: 1. For their rents and their caſuall profits, as Eſ<g ref="char:EOLhyphen"/>cheats, Forfeitures, uncertaine Fines in Copieholds, and the like, being eſtimated at a certaine annuall rent by an equall and indifferent computation, they may be continued, iſſuing and payable out of the ſame Lands they were formerly, in the
+<pb n="5" facs="tcp:114452:4"/>
+nature of rent charges, and ſo the alteration in this particular would be only nominall.</p>
+            <p n="2">2. For their ſervices due to their Mannors, as Fealtie ſuting their Courts, and the like; I anſwer, firſt, for their King, all men that are borne his Subjects, owe him Fealtie, ſweare him Allegiance, and as his liege people, ought to doe him ſervice upon all lawfull occaſions, and therefore the reiterating of the ſame things by the ſame men in his particular Courts, may ſeem onely a worke of ſupererrogation, and a repetition and re-act<g ref="char:EOLhyphen"/>ing, fruitleſſe and unneceſſary. And ſecondly, for the Nobili<g ref="char:EOLhyphen"/>tie and Gentry, their priſtine honour and reputation, both as relating to the power and command they formerly had over their Tenants, holding of their ſaid Mannors, as alſo in refe<g ref="char:EOLhyphen"/>rence to the preſent opinion and eſtimation of all men, is utter<g ref="char:EOLhyphen"/>ly loſt and vaniſhed, no man in theſe daies valuing his Lord of whom he holds his Lands (his free rents being paid) more then another man, ſcarce any thing at all. And ſecondly, divers of theſe Mannors being fallen into the hands of ignoble and mechanick men, divers both of the Nobilitie and Gentrie in regard of the tenure of ſome part of their eſtates, owe Fealty and other ſervices incident to the ſaid Mannors, to meane men farre their inferiours, both in rank and qualitie, and therefore this punctilio of honour is not to be regarded in reſpect of its confuſion and diſorder.</p>
+            <p>Now to the ſecond Objection, concerning the reſtraining of all men from limiting of their Eſtates by Intailes; I anſwer,</p>
+            <p n="1">1. As the caſe now ſtands, they are ſo eaſily and uſually cut off, fruſtrated and made void, by Fines and Recoveries, that they are altogether vaine and uſeleſſe, except it be to make imployment for Lawyers, Atturneyes, and others of the ſame craft and calling. And,</p>
+            <p n="2">2 Admit they were altogether unavoidable and inalterable, what other uſe or advantage could be made of them, (the ſhew<g ref="char:EOLhyphen"/>ing of mens pride &amp; vanity only excepted) then the intailing of a deſtructive inconvenience upon their poſterities, whoſe nume<g ref="char:EOLhyphen"/>rous iſſues and off-ſprings are (by reaſon of theſe Intailes) for the moſt part in a forlorne and miſerable condition, left to
+<pb n="6" facs="tcp:114452:5"/>
+beggerie and poverty; or, according to the proverbe, to the wide world, utterly unprovided for (the eldeſt only excepted) contrary to Reaſon, the Law of Nature, and of God himſelfe, a double portion only being alotted to the firſt-borne: and therefore ſuch a liberty as this is rather to be ſuppreſſed and provided againſt, then any wiſe cheriſhed or indulged unto, as a diſtruſting of the providence of God, and a too much confi<g ref="char:EOLhyphen"/>ding in an arme of fleſh, in a Chriſtian and well-governed Common-wealth.</p>
+            <p>And now to proceed, the letter and ſenſe of the Law being thus made plain and apparent, the next thing to be conſidered is the execution of them, and in this part doubtleſſe they cry a<g ref="char:EOLhyphen"/>lowd for the help of a Phyſitian, the preſent practice of them being ſo corrupted and polluted, that it ſtinks abominably in the noſtrills of God, and all good men; and therefore it were to be deſired, that ſeverall Courts of Judicature ſhould be eſta<g ref="char:EOLhyphen"/>bliſhed in every, even the leaſt Counties; and in thoſe that are larger, as Lincolnſhire, Yorkſhire, &amp;c. two, three, or more, ac<g ref="char:EOLhyphen"/>cording to their reſpective greatneſſe and extents, which ſaid Courts might judge abſolutely and ſoveraignly (all arbitrari<g ref="char:EOLhyphen"/>neſſe being by provident and wholſome reſtrictions and limita<g ref="char:EOLhyphen"/>tions carefully and diligently prevented) over all cauſes and perſons, <hi>crimina laeſae Majeſtatis,</hi> and of higheſt treaſons, which may be referred to the cenſure of the Parliament, onely excep<g ref="char:EOLhyphen"/>ted, whereby the ſhuffling and removing of Suits from one Court to another, to the great dammage and oppreſſion of the people, by injunctions, and the like, might be taken away, and juſtice equally &amp; ſpeedily adminiſtred to all men, even at their own doores, whereby likewiſe one ſort of Vermine, <hi>viz.</hi> Attur<g ref="char:EOLhyphen"/>neyes, Sollicitors, and the like, would be made uſeleſſe, all men being now by the Lawes plainneſſe and ſimplicity inabled to plead their owne cauſes, ſome few of the moſt ignorant being for this preſent generation onely excepted, who might eaſily procure a friend or neighbour to be their Advocate. As for the future, the Law being thus made eaſie by the vulgar to be known and attained unto, eſpecially if publike Schools were in every Pariſh erected, for teaching to read and write the Engliſh
+<pb n="7" facs="tcp:114452:5"/>
+tongue, a worke worthy to be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ought upon by thoſe that are in authority, all men, mad men and fooles only excepted, would be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fficiently able to manage <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and further the diſhoneſty and villa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ie of thoſe men, would hereby be ſuppreſſed, who vex and oppreſſe their Neighbours by fai<g ref="char:EOLhyphen"/>ned and unjuſt futes, peaceable minded men as the caſe now ſtands, chuſing rather to purchaſe their owne quietneſſe at a li<g ref="char:EOLhyphen"/>tigious knave<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hand, then to contend in Law with hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, although their cauſe in its ſelfe be both juſt and honeſt, in regard both of the delay of juſtice, proceeding from briberie, removing of ſutes, and many other corruption, as alſo from the remote di<g ref="char:EOLhyphen"/>ſtance of the place of judicature, to the great oppreſſion and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ex<g ref="char:EOLhyphen"/>ation of the beſt and honeſteſtiſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of people, moſt worthy by all lawfull and good meanes to be protected and provided for; and laſtly, (a little to digreſſe, hereby the exorbitant greatneſſe of the City of <hi>London</hi> would be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ated, and reta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded, which by the co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fluence and reſort of people unto it, from all part<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Kingdome upon ſo many occaſions, is although the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> City, growne ſo monſtrous and diſproportionable (a great ſo<g ref="char:EOLhyphen"/>leciſme in eſtate policie) to the reſt of the body, that it is to bee feared, (if experience have not already taught us juſt cauſe of feare,) that it will ſhortly, if not prevented, through the infinite numbers of tumultuous baſe and r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſcallous people; wherewith it now abou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> produce effects monſtrous and deſtructive to it<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſelfe and the whole Kingdome, but to returne, if it be objected that when there were but two reſembling thoſe Courts afore<g ref="char:EOLhyphen"/>ſaid in the whole Kingdome; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thoſe of the preſidents and Counſels eſtabliſhed in <hi>Wales,</hi> and in the North, and thoſe to judge only in cauſe of leſſer conſequence, and yet theſe two by Parliament ſuppreſſed at burthenſome to the Common-wealth, what then could be expected from ſo many of the like n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, to be ſet up throughout the whole Kingdome, but oppreſſion <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re then formerly, reſpective to their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>? I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſwer 1. Theſe Courts were put downe for their arbitrarie acting, according to their owne wills and diſcretions, not being <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to obſerve the ſtrict Rules and Precepts of a knowne and certain Law, a fault in theſe new Courts to bee with all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſp<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>i<g ref="char:EOLhyphen"/>on and carefull diligence provided againſt as aforeſaid, and ſe<g ref="char:EOLhyphen"/>condly,
+<pb n="8" facs="tcp:114452:6"/>
+the plaine and well knowne rules of the Law, to all men now made obvious and apparent, would deferre Iudges and all other Miniſters of juſtice from oppreſſion and corrupti<g ref="char:EOLhyphen"/>on, in regard that if they ſhould never ſo little ſtep aſide or di<g ref="char:EOLhyphen"/>greſſe from the paths of equitie, they would preſently be dete<g ref="char:EOLhyphen"/>cted and diſcovered without reaping any other brevitie (al<g ref="char:EOLhyphen"/>though now the caſe be otherwiſe) to themſelves, then the loſſe of other places for ever, together with a brand of infamie and diſgrace for their ſaid tranſgreſſions; thirdly and laſtly, an an<g ref="char:EOLhyphen"/>nuall of trienniall Parliament, or of any other certaine diſtance of time, as ſhould be thought moſt convenient, one of whoſe proper ends and works it would be, to examine, puniſh and re<g ref="char:EOLhyphen"/>forme abuſes and all ſorts of enormities whatſoever, wherewith theſe Courts ſhould at any time be infected or corrupted, would ſo dant and over awe, eſpecially if juſtice were ſeverely and im<g ref="char:EOLhyphen"/>partially adminiſtred and afflicted upon all offenders, without reſpect of perſons, even the moſt daring and impudent Spirits; and ſo all thoſe might bee curbed, and bridled (how unruly ſoever) by the Lawes ſtrictneſſe and ſeverity, whom conſcience of their wayes and the love of juſtice, would not refraine, the next in order to be conſidered, is the Regulation of the fees of all thoſe that are to act or agitate in the adminiſtration of the Lawes, in any ranck or degree whatſoever; now although the preſent abuſe and abominable exceſſe in this particular, cry a<g ref="char:EOLhyphen"/>loud for Reformation, a thing formerly often attempted with<g ref="char:EOLhyphen"/>out ſucceſſe, in regard that the branches (although out and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ped,) will ſpring and put out againe, if the roots be ſtill continued, yet becauſe all that formerly, or hereafter ſhall be ſaid, tendeth only and properly to the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>king away of the cauſe of all theſe corruptions and abuſes, which once perfor<g ref="char:EOLhyphen"/>med, all miſcheivous effects of this or the like nature, will of themſelves ceaſe and become voide, therefore I ſhall only adde in relation to this particular; that thoſe ſees <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> need<g ref="char:EOLhyphen"/>full to be continued, which would neither be great nor many<g ref="char:punc">▪</g> might be both knowne and certaine, without all equi<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>tions or <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aſions, ſo farre as could by any meanes be diviſed by hu<g ref="char:EOLhyphen"/>mane wit or policie, and that all offenders, either in giving or taking above that proportion which ſhould be by Parliament
+<pb n="9" facs="tcp:114452:6"/>
+allowed and eſtabliſhed, might be for example to all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> moſt ſeverely puniſhed, and further, the taker of any bribes above the proportion aforeſaid, to be deprived of his office, and if his of<g ref="char:EOLhyphen"/>fence were great and notorious, the ſaid offender to <gap reason="illegible" resp="#PDCC" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>de incapable of bearing any office in the Common wealth for ever.</p>
+            <p>And now let us ſtep a little aſide for conſcience ſake, and con<g ref="char:EOLhyphen"/>ſider the Chancery, which being as firſt erected to mitigate the vigor and ſtrictneſſe of the Common Law, hath by experience proved a great burthen and oppreſſion to the people; by the multiplicitie of ſutes, and delay of juſtice, and therefore may now be taken away, both as corrupt and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſeleſſe, all Lawes being now in themſelves made juſt and equitable as aforeſaid; and if it ſhall be objected, that ſome of them may by the altera<g ref="char:EOLhyphen"/>tion of times or other accidents, prove too hard and ſevere. I Anſwer, the ſaid greivances may then be preſented to the next Parliament, to be conſidered of, and ſo a remedy may be pro<g ref="char:EOLhyphen"/>vided for the future.</p>
+            <p>And now at laſt I am come to the ſtorming of that ſtrong Bul<g ref="char:EOLhyphen"/>wark, whereby theſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lawyer, are in their own opini<g ref="char:EOLhyphen"/>ons impregnable, and by t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſtrength whereof, as though they were altogether i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ef<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble and inconq<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rable, they bid def<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce unto all m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, and even with contempt and d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e example all their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and oppoſers under their feet, which inchanted <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is nothing elſe but thoſe ruler and that fo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which they themſelves have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and propounded for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> men that will or deſire to practiſe it the Lawes, to obſerve and walk in; which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is a lab<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inth <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> (<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> like) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll of windings and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings, that it <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> known to any, h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> themſelves only; and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>oward<g ref="char:EOLhyphen"/>ly men, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rds the Law, of their own profeſſion, now the conſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>atio<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nfir<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion of th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> y<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>au<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> failing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iable, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in matter of <gap reason="illegible" resp="#PDCC" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> circum<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ance, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>though <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and meaning be other<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſe never ſo clear and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ufficient <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hereby made therefore (although <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo euill and co<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>pt) ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and of ſuch <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſolute ne<g ref="char:EOLhyphen"/>ceſſary to be imployed by all men, to whom the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <pb n="10" facs="tcp:114452:7"/>
+that now they may abuſe us at their pleaſure; they may ſuck our bloud, eat our fleſh, and when they have done, even ſit them down to gnaw and pick our bones, and yet we as remedileſſe) muſt kiſſe the rod, and Spaniel-like, fawne upon theſe our cruel task-maſters; nay further, to provoke and inſult over us, their Clarks forſooth, as though their skill and learning were much in the tacticts, doe place their writings in order military, their words and lines like rancks and files, keeping equal ſpace and di<g ref="char:EOLhyphen"/>ſtances, and thus they charge and diſcharge us of all our monyes, and then both they and their maſters face about to our enemies; and thus we with <hi>Iſſachar,</hi> Aſſe-like, crouch down between two burthens, and by the means aforeſaid, together with their harſh and conjuring names, as infang-theif outfang-theif, with others of the ſame kind, their ſtrange and barbarous language and the like; they have raiſed ſuch miſts and fogges about all the parties and parcels of the Law, that except themſelves and their Diſci<g ref="char:EOLhyphen"/>ples, all others may well ſay of it with the Poet, <hi>Capud inter im<g ref="char:EOLhyphen"/>bula condit;</hi> and yet with all their machinations and devices, they are me-thinks, no ſecurer then the Aſſe in the Fable, who diſ<g ref="char:EOLhyphen"/>guiſed with a Lions skin, walked proudly and diſdainfully, (to the terror of the people) up and down the Countrey, untill one wiſer then his neighbours, perceiving the deceit, pulled off the skin, and then he appeared in his own proper colours, a poore ſimple ridiculous Aſſe, and a laughing-ſtock and deriſi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to thoſe that formerly did ſo much feare and tremble at his preſence: The Morall and application of which ſaid Fable will then clearly and evidently be ſeen true when thoſe that are in authority ſhall ſe<g ref="char:EOLhyphen"/>riouſly undertake to cleare up and diſpel thoſe clouds wherwith theſe men of the long to be have over caſt and darkned both the ſence and letter of the Law, and yet more clearly when the Law's reformed, as aforeſaid, ſhall be cut out of thoſe old ſtinking and polluted ditches, wherein they have for ſo many yeeres beene forced to run, and captivated by theſe Lawyers, and turned into new clear and uncorrupted chancels, whereby they may flow purely and pleaſantly into all the parts and corners of the King<g ref="char:EOLhyphen"/>dome, and they themſelves ſhall be diſcharged of all places of truſt and creda<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, both in Councell and Government, and thus juſtly in regard that they, like the Biſhops foot in the Proverbe,
+<pb n="11" facs="tcp:114452:7"/>
+doe ſpoyle and vitiate every thing they intermiddle with, or have an hand in; theſe ſimpletons with their appurtenances, <hi>viz.</hi> Atturneyes, Sollicit<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, Clarks, and ſo to the end of the chapter, how Aſſe-like and ridiculous would they then b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, in what a pit<g ref="char:EOLhyphen"/>tifull c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> would of <hi>John</hi> an <hi>Oakes</hi> be, together with <hi>John</hi> a <hi>Stiles</hi> his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and copartner, unto what <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouſter de more empore<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> would they tranſport themſelves, with their cap<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s and tailes (whereof the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Engliſh men, could make neither head nor feet) <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the reſt of their pretious <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>fills, which would now <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o longer be Staple commodities, nor ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dable here in <hi>England,</hi> he that would nor could reſolve them, might get the firſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e that ever Lawyers gave, and do them Knight-ſervice alſo; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my part, except they eyeſ-drop <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, I'le be none of their Counſel, but rather leave it to themſelves, who wanting imployment of all other men, would now have the moſt ſpare time and leaſure to conſult and conſider of their own occaſions; and laſtly, to ennumerate the Knaveries and villanies of all inferiour officers, were an endleſſe labour, eſpecially of thoſe worthy Knights of their own proper founda<g ref="char:EOLhyphen"/>tion ſurnamed <hi>de le poſt,</hi> who becauſe by their perjuries (trem<g ref="char:EOLhyphen"/>ble O earth, and be aſhamed O heavens) they were ſerviceable to theſe Caterpillers, they were by them tolerated and connived at, and therefore we may juſtly ſay of them with <hi>Juvenal.</hi>
+            </p>
+            <q>Dant ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iam corvi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, vexant cenſure columb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s.</q>
+            <p>Now to conclude, ſince it is confeſt by all parties that the Law is that which terminates and bounds the rights and inter<g ref="char:EOLhyphen"/>eſts of all men, as well of the King in his Prerogative, as of the people in their priviledges and immunities, and ſeeing theſe are the two Poles, upon which, as one ſaye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very learnedly and judicially, the Sphe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of government moves, whoſe influences, if they keep their equall and juſt diſtances, are peace and hap<g ref="char:EOLhyphen"/>pineſſe; and on the contrary, if they interfere and claſh toge<g ref="char:EOLhyphen"/>ther, they produce certaine ruine and deſtruction to the Nation; and further conſidering that theſe two have alwayes, it all times been uſed as ſtalking-horſes on both ſides, whereby the Kingdome hath oftentimes been imbroyled in blood and warres, to it's almoſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eter deſolation, whereof this preſent time, is a wofull teſtimony and whereunto the Chronicles of all former
+<pb n="13" facs="tcp:114452:8"/>
+times do plainly and evidently beare witneſſe, they having be<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the cauſes and originals of all the civil warres in this Nation, ſince the <hi>Norman</hi>-conqueſt (the conteſtation between the White roſe and the Red not excepted; and therefore it were above all other things cordially to be wiſhed and deſired (the reforma<g ref="char:EOLhyphen"/>tion of the Lawes, as aforeſaid ſcarcely excepted) that the li<g ref="char:EOLhyphen"/>mites and extents of theſe two (<hi>viz.</hi> the Kings Prerogative and the peoples priviledges) might be throughly and throughly examined and enquired after, &amp; being once certainly known and found out they might by the conſent, and to the good and hap<g ref="char:EOLhyphen"/>pineſſe of all Parties, be boundered out to all poſterities with two <hi>Herculean</hi> pillars, and a <hi>non plus ultra,</hi> in golden Capital letters written on them, to the everlaſting peace, quietneſſe and proſperity both of King and People, ſo far as humane prudence may extend) in this and all ſucceeding generations. Thus have I caſt my mite into the publike treaſury, and drawn a pourtraiture (though rudely and unskilfully) of that, which if done to the life, and ſet forth in freſh and proper colours ſhew by a more able and experienced workman, would ſhew as in it ſelf beautifull and lovely, ſo would bring to this Nation more benefit, eaſe and happineſſe than it was ever yet partaker of. And therefore, moſt noble King, grave and renowned Senators both of Parliament and City, and ye the Worthies of the Army) the cleanſing of this Augean ſtable, being a work not unworthy even the Greateſt, joyn all your forces here together, do but bring this great work to perfection, and we will all atteſt under hand and ſeal, that you have then effected that which all of you joyntly and ſeverally have, to the expence of ſo much blood and treaſure, all this while either deſired or pretended, viz. the good and welfare of the Common wealth if any ſhall object that theſe are but No<g ref="char:EOLhyphen"/>tions and Fancies, fit onely for <hi>Platos</hi> or an Utopian Com<g ref="char:EOLhyphen"/>mon-wealth: I enſwer, that it is the greateſt grief and ve<g ref="char:EOLhyphen"/>xation; next to the miſchief it ſelf, that nothing (if really under<g ref="char:EOLhyphen"/>taken by thoſe that are in authority) would be found more eaſie to be effect<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, nothing more profitable when effected, and yet none can be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound to attempt it. And therefore, moſt gracious Soveraigne, and noble Heroes, to whoſe valour and magnanimi<g ref="char:EOLhyphen"/>ty nothing hath been found too hard or impoſſible, give but a be<g ref="char:EOLhyphen"/>ginning
+<pb n="12" facs="tcp:114452:8"/>
+to this great and famous Reformation of all good men, ſo much longed after and deſired, and the God of peace &amp; order will proſper it in your hands, to the endearing and ingratiating of your ſelves to this, and the eternizing of your names to all fu<g ref="char:EOLhyphen"/>ture generations, that ſo Juſtice may flow down like a mighty ſtream, and peace may be within our walls, and plenteouſneſſe within our palaces.</p>
+            <p>Which that it may be, is the hearty prayer and deſire of him, who is a loyall ſubject to his Prince, a faithfull ſervant to the Parliament, a wellwiſher to the Army, and a lover of the peace and feedome of his native Country.</p>
+            <closer>
+               <signed>Nicholſon.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
